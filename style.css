@@ -1,0 +1,23 @@
+body {
+  background-color: aqua;
+}
+
+section.nav > a {
+    font-size: 32px;
+    color: white;
+    text-decoration: none;
+    margin-right: 15px
+}
+
+.nav {
+    margin-bottom: 15px;
+}
+
+.hide {
+  display: none;
+}
+
+.active {
+    font-weight: bold;
+    color: gray;
+}
